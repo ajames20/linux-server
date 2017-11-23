@@ -298,5 +298,5 @@ http://34.238.162.142/.us-east-2.compute.amazonaws.com
 
 ## References:
 
-1. Udacity's FSND Forum
+1. Udacity's FSND Forum https://discussions.udacity.com/t/solved-facebook-oauth-internal-server-error-500/249841/2
 2. https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
